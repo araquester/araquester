@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, Mi nombre ess Mauricio Araque y soy un cientifico de datos con muchas ganas de seguir aprendiendo sobre el mundo TI 👋
 
 <!--
 **araquester/araquester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 En estos instantes me encuentro en el proyecto final grupal para graduarme de Cientifico de Datos en HENRY

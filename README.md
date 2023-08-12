@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 En estos instantes me encuentro en el proyecto final grupal para graduarme de Cientifico de Datos en HENRY
+https://visitor-badge.glitch.me/badge?page_id=araquester.visitor-badge

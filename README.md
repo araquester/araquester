@@ -1,5 +1,7 @@
-<h2 align="center">:dizzy:  Hello, My name is Mauricio Araque and I'm a data scientist eager to keep learning about the IT world. 👋</h2>
-<h3 align="center">En este Github se puede ver un poco de todo lo que he hecho:</h3>
+
+<h2 align="left">:dizzy:  Hello, My name is Mauricio Araque and I'm a data scientist 👋</h2>
+
+<h3 align="center">I started in the world of coding a year ago but it was in data science that I found my true passion.</h3>
 
 ### 
 
@@ -8,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Henry as Teaching Asistant
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,33 +20,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- <p>🔭 En estos instantes me encuentro en el proyecto final grupal para graduarme de Cientifico de Datos en ✨ HENRY <img src=https://avatars.githubusercontent.com/u/57154655?s=200&v=4 width="20" height="20"> ✨
+- <p>I am currently working on my final project for the Bootcamp at Henry, which consists of a complete analysis of gas and noise pollution from cabs in New York City. At the end of this project I will graduate as a data scientist ✨ HENRY ✨
 
+<p> <img src=https://pbs.twimg.com/profile_images/1542845396032135168/o5AmaQyh_400x400.jpg width="30" height="30"> - I’m currently working on Henry as Teaching Asistant
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=araquester&label=Profile%20views&color=0e75b6&style=flat" alt="araquester" /> </p>
 
 
 
-<h3 align="left">Social: 
-<a href="https://www.linkedin.com/in/mauricio-araque/">
-<img src=https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg width="30"> </a>
-<a href="https://www.instagram.com/araquester/">
-<img src=https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg width="30"> </a>
-<a href="https://twitter.com/araquester">
-<img src=https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg width="30"> </a>
-</h3>
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/araquester) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-araque) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/araquester) 
+
+
+# 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=araquester&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=araquester&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=araquester&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-
-
-<h3 align="left">Tech Stack:
-<img src=https://www.vectorlogo.zone/logos/python/python-vertical.svg width=40>
-<img src=https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg width=40>
-<img src=https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png width=40>
-<img src=https://i.redd.it/c6h7rok9c2v31.jpg height=40> 
-<img src=https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png height=40>
-<img src=https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png height=40>
-</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=araquester&" alt="araquester" width=400/></p>
 

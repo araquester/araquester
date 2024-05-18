@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- <p>I am currently working on my final project for the Bootcamp at Henry, which consists of a complete analysis of gas and noise pollution from cabs in New York City. At the end of this project I will graduate as a data scientist ✨ HENRY ✨
+- <p>Since November 2023 I graduated from Henry's bootcamp as a data scientist ✨ HENRY ✨
 
-<p> <img src=https://pbs.twimg.com/profile_images/1542845396032135168/o5AmaQyh_400x400.jpg width="30" height="30"> - I’m currently working on Henry as Teaching Asistant
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=araquester&label=Profile%20views&color=0e75b6&style=flat" alt="araquester" /> </p>
 
 
